@@ -1,0 +1,3 @@
+mvn install:install-file -Dfile="libs\virt_jena.jar" 
+-DartifactId=virtjena -DgroupId=gr.forth.ics -Dversion=7-20140918 
+-Dpackaging=jar -DpomFile=pom.xml
